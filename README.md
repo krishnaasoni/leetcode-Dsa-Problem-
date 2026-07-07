@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
@@ -22,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
