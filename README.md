@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0724-find-pivot-index) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
