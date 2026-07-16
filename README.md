@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/2574-left-and-right-sum-differences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -92,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
