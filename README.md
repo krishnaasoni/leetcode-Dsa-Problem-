@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0867-transpose-matrix) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
