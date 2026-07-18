@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
