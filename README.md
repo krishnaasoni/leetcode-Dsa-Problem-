@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0724-find-pivot-index](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0724-find-pivot-index) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
