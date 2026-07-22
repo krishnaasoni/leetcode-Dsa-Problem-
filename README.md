@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
