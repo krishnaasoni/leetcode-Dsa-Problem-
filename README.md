@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/2574-left-and-right-sum-differences) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
