@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
