@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
