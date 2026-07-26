@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
