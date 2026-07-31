@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0012-integer-to-roman) |
+| [0290-word-pattern](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0290-word-pattern) |
 | [1768-merge-strings-alternately](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0290-word-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
