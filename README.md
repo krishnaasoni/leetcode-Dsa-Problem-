@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0771-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0229-majority-element-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
