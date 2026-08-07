@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1480-running-sum-of-1d-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -218,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
