@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3163-string-compression-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3163-string-compression-iii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
