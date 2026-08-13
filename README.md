@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0029-divide-two-integers) |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
