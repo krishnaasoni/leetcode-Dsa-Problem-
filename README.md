@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
