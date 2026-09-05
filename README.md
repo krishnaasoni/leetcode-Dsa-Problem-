@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0029-divide-two-integers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0234-palindrome-linked-list) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0141-linked-list-cycle) |
