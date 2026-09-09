@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0402-remove-k-digits) |
