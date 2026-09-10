@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0402-remove-k-digits) |
 | [0771-jewels-and-stones](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1768-merge-strings-alternately](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3163-string-compression-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3163-string-compression-iii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
