@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
