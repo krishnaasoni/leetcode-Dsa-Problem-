@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0867-transpose-matrix) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
