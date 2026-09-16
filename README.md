@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0229-majority-element-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0242-valid-anagram) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
