@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
+| [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -340,4 +342,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
