@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0049-group-anagrams) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
