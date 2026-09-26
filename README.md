@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
 ## Knapsack Problem
@@ -359,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
