@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
+| [0213-house-robber-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0219-contains-duplicate-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0062-unique-paths) |
+| [0213-house-robber-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0877-stone-game) |
