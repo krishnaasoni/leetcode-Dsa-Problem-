@@ -1,4 +1,4 @@
-// using DFS
+// using BFS
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n = rooms.size();
