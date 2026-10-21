@@ -380,10 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0110-balanced-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1382-balance-a-binary-search-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
