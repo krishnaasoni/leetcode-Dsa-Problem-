@@ -410,4 +410,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
