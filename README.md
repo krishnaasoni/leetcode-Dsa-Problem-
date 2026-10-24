@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 | [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
+| [1254-number-of-closed-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1254-number-of-closed-islands) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1480-running-sum-of-1d-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1572-matrix-diagonal-sum) |
 ## Number Theory
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0110-balanced-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -419,4 +423,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
