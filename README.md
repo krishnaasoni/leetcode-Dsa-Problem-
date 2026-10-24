@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 | [1122-relative-sort-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1122-relative-sort-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0867-transpose-matrix) |
+| [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 | [1572-matrix-diagonal-sum](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1572-matrix-diagonal-sum) |
 ## Number Theory
 |  |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0110-balanced-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -406,9 +409,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
