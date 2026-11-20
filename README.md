@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0217-contains-duplicate) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0733-flood-fill) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
