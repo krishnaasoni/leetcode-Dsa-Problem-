@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1791-find-center-of-star-graph) |
 ## Union-Find
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/krishnaasoni/leetcode-Dsa-Problem-/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
